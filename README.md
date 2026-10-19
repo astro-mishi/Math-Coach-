@@ -1,7 +1,15 @@
 # 📐 Algebra Coach
 
 An AI-powered algebra practice tool built for a solo hackathon project.
+## Project Description
+Ok, consider you are a passionate and driven student practicing your math exercises for the day. You start solving the questions one by one. You solve the problem and check the validity of the solution from the key book to see if your answer was right or wrong. You find that the answer is wrong. While being sure of the methods you used, you spend many long hours trying to find the exact step where you went wrong—browsing the internet for similar solved problem sets, analyzing them, and comparing them to yours. In this whole process, you spend more time finding the problem than actually learning and polishing your math skills.  
 
+This website solves exactly that problem. You upload your exercise picture, and the website generates the problems one by one for you to solve. Then you solve the problem on the screen if you have a stylus, or solve it on paper and upload the picture. The website compares your answer with the solved answer it has generated in the backend (without showing it to the student). If the student has gotten the answer correct, well and good. If not, the website pinpoints exactly which step or steps went wrong and explains in the description box how to correct it.  
+
+Being from a STEM background, I wished for a similar coach available 24/7, especially since my teachers were not available all the time, to help me pinpoint exactly where I went wrong in my solutions so that I could learn efficiently and quickly, rather than spending hours finding my mistakes and eventually reaching my breaking point.
+This is how the website I built helps students learn efficiently—spending greater time actually learning rather than wasting long hours analyzing where they went wrong and reaching their breaking point. Let’s make learning fun rather than frustrating.
+
+what this website does: 
 A student uploads a photo of a textbook exercise. The app splits it into parts, solves each one privately in the background, and shows the parts one at a time. The student answers by **writing on screen**, **uploading a photo of their handwritten working**, or **typing**. The app reads the handwriting, compares it with the verified solution, finds the **first wrong step**, and explains how to fix it.
 
 A **teacher space** tracks student progress live. Each mistake appears as a cropped picture of the exact step in the student's own handwriting, with an AI diagnosis and a box for the teacher's mentoring note.
