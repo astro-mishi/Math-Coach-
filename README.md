@@ -1,2 +1,7 @@
 # Math-Coach-
 An AI math coach that pinpoints mistakes step by step
+Ok, consider you are a passionate and driven student practicing your math exercises for the day. You start solving the questions one by one. You solve the problem and check the validity of the solution from the key book to see if your answer was right or wrong. You find that the answer is wrong. While being sure of the methods you used, you spend many long hours trying to find the exact step where you went wrong, browsing the internet for similar solved problem sets, analyzing them, and comparing them to yours. In this whole process, you spend more time finding the problem than actually learning and polishing your math skills.  
+
+This website solves exactly that problem. You upload your exercise picture, and the website generates the problems one by one for you to solve. Then you solve the problem on the screen if you have a stylus, or solve it on paper and upload the picture. The website compares your answer with the solved answer it has generated in the backend (without showing it to the student). If the student has gotten the answer correct, well and good. If not, the website pinpoints exactly which step or steps went wrong and explains in the description box how to correct it.  
+
+This is how the website I built helps students learn efficiently, spending greater time actually learning rather than wasting long hours analyzing where they went wrong and reaching their breaking point. Let’s make learning fun rather than frustrating.
